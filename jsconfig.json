@@ -1,0 +1,8 @@
+{
+  "compilerOptions": {
+    "baseUrl": ".",             // ⬅️ required to use aliases like "@"
+    "paths": {
+      "@/*": ["./*"]
+    }
+  }
+}
